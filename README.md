@@ -1,2 +1,2 @@
 # csmpi
-the open source project for Chian Stock Market Panic Index
+This is the open source project for China Stock Market Panic Index proposed by Alex Yang in 2015. CSMPI aims to be an more accurate indicator than MACS, KDJ and RSI on the trend of shares in the China Stock Market. It reflects and predicts the panic level of the China Stock Market by using the big data analysis of selected stock market experts, social media discussions, and the level 1 data etc.
